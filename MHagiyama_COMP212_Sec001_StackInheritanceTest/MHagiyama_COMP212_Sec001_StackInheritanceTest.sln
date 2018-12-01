@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moemi-Hagiyama_StackInheritanceTest", "Moemi-Hagiyama_StackInheritanceTest\Moemi-Hagiyama_StackInheritanceTest.csproj", "{88DBB20F-FAA0-4B31-A280-D16E67BDC1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88DBB20F-FAA0-4B31-A280-D16E67BDC1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DBB20F-FAA0-4B31-A280-D16E67BDC1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DBB20F-FAA0-4B31-A280-D16E67BDC1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DBB20F-FAA0-4B31-A280-D16E67BDC1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3AE3D6-5AB6-464F-85E3-28588D405AB1}
+	EndGlobalSection
+EndGlobal
